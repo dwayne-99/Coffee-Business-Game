@@ -1,1 +1,1 @@
-**coffee-business-game**
+# coffee-business-game
